@@ -1,4 +1,4 @@
-Democracy.io
+American Promise 
 ============
 
 [![Build Status](https://travis-ci.org/EFForg/democracy.io.svg?branch=master)](https://travis-ci.org/EFForg/democracy.io)
@@ -18,7 +18,6 @@ Express & Angular app for sending messages to Senate and House members
 
 ## Background Info
 
-Democracy.io is an app for contacting Senate & House members. It provides a user friendly wrapper around the individual member contact forms.
 
 It uses APIs from:
 * [Smarty Streets](https://smartystreets.com/docs)
